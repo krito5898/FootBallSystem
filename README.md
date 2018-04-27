@@ -1,7 +1,7 @@
 # FootBallSystem
 Our system can log the whole process for the football match
 
-# 系统界面
+# 系统主要框架
 * 裁判管理界面
 * 球队实时榜
 * 射手实时榜
