@@ -1,5 +1,7 @@
 # FootBallSystem
-Our system can log the whole process for the football match
+我们的系统主要有以下功能
+* 打开软件后,可以直接查看相应榜单
+* 在进行裁判登录之后,可以对比赛,球员,球队进行管理.
 
 # 系统主要框架
 * 裁判管理界面
@@ -11,3 +13,5 @@ Our system can log the whole process for the football match
 * 在每场比赛之前,记录好球场,比赛胜负,球员进球.记录结果
 * 对球员进行管理
 * 对球队进行管理
+## 球队管理界面
+* 对比赛的队伍,球员进行登记 
